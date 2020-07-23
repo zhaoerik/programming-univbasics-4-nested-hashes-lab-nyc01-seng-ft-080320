@@ -82,7 +82,7 @@ def adding_matz
     }
 programmer_hash[:yukihiro_matsumoto] => {
 	:known_for => "Ruby",
-	:langauges => ["LISP", "C"] 
+	:langauges => ["LISP", "C"]
 }
 end
 
